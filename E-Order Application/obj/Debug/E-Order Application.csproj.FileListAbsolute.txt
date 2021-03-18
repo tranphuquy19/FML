@@ -1,0 +1,10 @@
+C:\Users\tranp\source\repos\Dental Payment Form\E-Order Application\bin\Debug\E-Order Application.exe.config
+C:\Users\tranp\source\repos\Dental Payment Form\E-Order Application\bin\Debug\E-Order Application.exe
+C:\Users\tranp\source\repos\Dental Payment Form\E-Order Application\bin\Debug\E-Order Application.pdb
+C:\Users\tranp\source\repos\Dental Payment Form\E-Order Application\obj\Debug\E-Order Application.csprojAssemblyReference.cache
+C:\Users\tranp\source\repos\Dental Payment Form\E-Order Application\obj\Debug\E_Order_Application.Form1.resources
+C:\Users\tranp\source\repos\Dental Payment Form\E-Order Application\obj\Debug\E_Order_Application.Properties.Resources.resources
+C:\Users\tranp\source\repos\Dental Payment Form\E-Order Application\obj\Debug\E-Order Application.csproj.GenerateResource.cache
+C:\Users\tranp\source\repos\Dental Payment Form\E-Order Application\obj\Debug\E-Order Application.csproj.CoreCompileInputs.cache
+C:\Users\tranp\source\repos\Dental Payment Form\E-Order Application\obj\Debug\E-Order Application.exe
+C:\Users\tranp\source\repos\Dental Payment Form\E-Order Application\obj\Debug\E-Order Application.pdb

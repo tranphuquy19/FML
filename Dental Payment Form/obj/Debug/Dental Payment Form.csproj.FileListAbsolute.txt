@@ -1,0 +1,10 @@
+C:\Users\tranp\source\repos\Dental Payment Form\Dental Payment Form\bin\Debug\Dental Payment Form.exe.config
+C:\Users\tranp\source\repos\Dental Payment Form\Dental Payment Form\bin\Debug\Dental Payment Form.exe
+C:\Users\tranp\source\repos\Dental Payment Form\Dental Payment Form\bin\Debug\Dental Payment Form.pdb
+C:\Users\tranp\source\repos\Dental Payment Form\Dental Payment Form\obj\Debug\Dental Payment Form.csprojAssemblyReference.cache
+C:\Users\tranp\source\repos\Dental Payment Form\Dental Payment Form\obj\Debug\Dental_Payment_Form.Form1.resources
+C:\Users\tranp\source\repos\Dental Payment Form\Dental Payment Form\obj\Debug\Dental_Payment_Form.Properties.Resources.resources
+C:\Users\tranp\source\repos\Dental Payment Form\Dental Payment Form\obj\Debug\Dental Payment Form.csproj.GenerateResource.cache
+C:\Users\tranp\source\repos\Dental Payment Form\Dental Payment Form\obj\Debug\Dental Payment Form.csproj.CoreCompileInputs.cache
+C:\Users\tranp\source\repos\Dental Payment Form\Dental Payment Form\obj\Debug\Dental Payment Form.exe
+C:\Users\tranp\source\repos\Dental Payment Form\Dental Payment Form\obj\Debug\Dental Payment Form.pdb

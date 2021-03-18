@@ -1,0 +1,10 @@
+C:\Users\tranp\source\repos\Dental Payment Form\Security Panel\bin\Debug\Security Panel.exe.config
+C:\Users\tranp\source\repos\Dental Payment Form\Security Panel\bin\Debug\Security Panel.exe
+C:\Users\tranp\source\repos\Dental Payment Form\Security Panel\bin\Debug\Security Panel.pdb
+C:\Users\tranp\source\repos\Dental Payment Form\Security Panel\obj\Debug\Security Panel.csprojAssemblyReference.cache
+C:\Users\tranp\source\repos\Dental Payment Form\Security Panel\obj\Debug\Security_Panel.Form1.resources
+C:\Users\tranp\source\repos\Dental Payment Form\Security Panel\obj\Debug\Security_Panel.Properties.Resources.resources
+C:\Users\tranp\source\repos\Dental Payment Form\Security Panel\obj\Debug\Security Panel.csproj.GenerateResource.cache
+C:\Users\tranp\source\repos\Dental Payment Form\Security Panel\obj\Debug\Security Panel.csproj.CoreCompileInputs.cache
+C:\Users\tranp\source\repos\Dental Payment Form\Security Panel\obj\Debug\Security Panel.exe
+C:\Users\tranp\source\repos\Dental Payment Form\Security Panel\obj\Debug\Security Panel.pdb
